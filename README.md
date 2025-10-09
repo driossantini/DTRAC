@@ -15,7 +15,9 @@ patients who are likely to follow a difficult-to-treat disease course.
 This package implements a rule-based classification algorithm. It is
 **not** a pre-trained statistical model. The classification is
 determined by a series of logical conditions and matrix manipulations
-applied to commonly available clinical data. \## Installation
+applied to commonly available clinical data.
+
+## Installation
 
 You can install the development version of DTRAC from
 [GitHub](https://github.com/) with:

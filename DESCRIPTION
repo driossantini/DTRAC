@@ -1,9 +1,9 @@
 Package: DTRAC
-Title: What the Package Does (One Line, Title Case)
+Title: A Rule-Based Classifier for Difficult-to-Treat Rheumatoid Arthritis
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("David", "RS", , "first.last@example.com", role = c("aut", "cre"))
+Description: Provides a tool for the stratification of patients with Rheumatoid Arthritis (RA). It implements a deterministic, rule-based algorithm that uses a series of logical conditions and matrix manipulations to classify patients as 'Difficult-to-Treat' (D2T).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
